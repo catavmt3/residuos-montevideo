@@ -8,7 +8,7 @@ Especialización en Ciencia de Datos e Inteligencia Artificial · UTEC – MIT �
 
 ## Descripción
 
-Pipeline de modelado sobre los registros de levantes de contenedores domiciliarios de la Intendencia de Montevideo (enero 2024 – febrero 2026). El objetivo es predecir los días de acumulación de residuos por contenedor y detectar anomalías — unidades que acumulan significativamente más de lo habitual — para optimizar la frecuencia de recolección.
+Pipeline de modelado sobre los registros de levantes de contenedores domiciliarios de la Intendencia de Montevideo (enero 2024 a febrero 2026). El objetivo es predecir los días de acumulación de residuos por contenedor y detectar anomalías (unidades que acumulan significativamente más de lo habitual) para optimizar la frecuencia de recolección.
 
 ## Contenido
 
